@@ -22,43 +22,17 @@ p{
     -o-transform: scale(1.1);
     background-color: black;
 }
-#card:active {
-    transform: scale(1.8) translate(-30%, -28%);
+@media (min-width:572px) {
+  #card:active {
+    transform: scale(1.8) translate(-28%, -28%);
     position: fixed;
     top: 50%;
     left: 50%;
     transform-origin: center;
     z-index: 1;
-    -webkit-transform: scale(1.8) translate(-30%, -28%);
-    -moz-transform: scale(1.8) translate(-30%, -28%);
-    -ms-transform: scale(1.8) translate(-30%, -28%);
-    -o-transform: scale(1.8) translate(-30%, -28%);
+    -webkit-transform: scale(1.8) translate(-28%, -28%);
+    -moz-transform: scale(1.8) translate(-28%, -28%);
+    -ms-transform: scale(1.8) translate(-28%, -28%);
+    -o-transform: scale(1.8) translate(-28%, -28%);
 }
-@media (max-width: 422px) {
-    #card:active {
-      transform: scale(1.1) translate(-45%, -28%);
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform-origin: center;
-      z-index: 1;
-      -webkit-transform: scale(1.1) translate(-45%, -28%);
-      -moz-transform: scale(1.1) translate(-45%, -28%);
-      -ms-transform: scale(1.1) translate(-45%, -28%);
-      -o-transform: scale(1.1) translate(-45%, -28%);
-}
-  }
-  @media (min-width:423px) and (max-width: 570px) {
-    #card:active {
-      transform: scale(1.4) translate(-36%, -28%);
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform-origin: center;
-      z-index: 1;
-      -webkit-transform: scale(1.4) translate(-36%, -28%);
-      -moz-transform: scale(1.4) translate(-36%, -28%);
-      -ms-transform: scale(1.4) translate(-36%, -28%);
-      -o-transform: scale(1.4) translate(-36%, -28%);
-    }
   }
