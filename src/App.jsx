@@ -18,6 +18,7 @@ function App() {
             key={item.name}
             name={item.name}
             commonName={item.common_name}
+            type={item.type}
             constellation={item.constellation}
             src={IMAGES[item.name]}
           />

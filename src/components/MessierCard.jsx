@@ -1,6 +1,6 @@
 import './MessierCard.css';
 
-function MessierCard({ name, constellation, src ,commonName}) {
+function MessierCard({ name, constellation, type, src, commonName}) {
   return (
       <div className="card bg-black" id='card' style={{width: "18rem"}}>
         <img src={src} alt={name} className='rounded-top border border-0 ' />
@@ -8,6 +8,7 @@ function MessierCard({ name, constellation, src ,commonName}) {
 
           <p id='title'><span className='fw-bold'>{name}
           {commonName && ( <span className='fw-bold'> - {commonName}</span>)} </span></p>
+          <p id='type'>Type: <span className='fw-bold'> {type} </span></p>
 
           <p id='constellation'>Constellation: <span className='fw-bold'> {constellation} </span></p>
 
