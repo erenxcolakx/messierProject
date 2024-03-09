@@ -4,25 +4,12 @@ import Header from './components/Header';
 import * as messierData from './assets/JSON/messier.json';
 import MessierCard from './components/MessierCard';
 import './index.css';
+import IMAGES from './images';
+
 
 const messierObjects = messierData.messier_objects;
 
 function App() {
-  const [loadedImages, setLoadedImages] = useState({});
-
-  useEffect(() => {
-    const loadImage = async () => {
-      let imageObject = {};
-      for (let i = 1; i <= 110; i++) {
-        const image = await import(`./assets/MessierObjects/Messier-${i}.webp`);
-        imageObject[`M${i}`] = image.default;
-      }
-      setLoadedImages(imageObject);
-    };
-
-    loadImage();
-  }, []);
-
   return (
     <div className='gradient-background'>
       <Header />
@@ -33,7 +20,7 @@ function App() {
             name={item.name}
             commonName={item.common_name}
             constellation={item.constellation}
-            src={loadedImages[item.name]}
+            src={IMAGES[item.name]}
           />
         ))}
       </div>
