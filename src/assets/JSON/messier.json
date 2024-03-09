@@ -1,0 +1,768 @@
+
+{
+    "messier_objects": [
+      {
+        "name": "M1",
+        "common_name": "Crab Nebula",
+        "type": "Supernova Remnant",
+        "constellation": "Taurus",
+        "discovery_date": "1758"
+      },
+      {
+        "name": "M2",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Aquarius",
+        "discovery_date": "1746"
+      },
+      {
+        "name": "M3",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Canes Venatici",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M4",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Scorpius",
+        "discovery_date": "1746"
+      },
+      {
+        "name": "M5",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Serpens",
+        "discovery_date": "1702"
+      },
+      {
+        "name": "M6",
+        "common_name": "Butterfly Cluster",
+        "type": "Open Cluster",
+        "constellation": "Scorpius",
+        "discovery_date": "c. 130 AD"
+      },
+      {
+        "name": "M7",
+        "common_name": "Ptolemy Cluster",
+        "type": "Open Cluster",
+        "constellation": "Scorpius",
+        "discovery_date": "c. 130 AD"
+      },
+      {
+        "name": "M8",
+        "common_name": "Lagoon Nebula",
+        "type": "Emission Nebula",
+        "constellation": "Sagittarius",
+        "discovery_date": "c. 130 AD"
+      },
+      {
+        "name": "M9",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Ophiuchus",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M10",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Ophiuchus",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M11",
+        "common_name": "Wild Duck Cluster",
+        "type": "Open Cluster",
+        "constellation": "Scutum",
+        "discovery_date": "1681"
+      },
+      {
+        "name": "M12",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Ophiuchus",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M13",
+        "common_name": "Great Hercules Cluster",
+        "type": "Globular Cluster",
+        "constellation": "Hercules",
+        "discovery_date": "1714"
+      },
+      {
+        "name": "M14",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Ophiuchus",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M15",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Pegasus",
+        "discovery_date": "1746"
+      },
+      {
+        "name": "M16",
+        "common_name": "Eagle Nebula",
+        "type": "Emission Nebula",
+        "constellation": "Serpens",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M17",
+        "common_name": "Omega Nebula",
+        "type": "Emission Nebula",
+        "constellation": "Sagittarius",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M18",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Sagittarius",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M19",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Ophiuchus",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M20",
+        "common_name": "Trifid Nebula",
+        "type": "Emission Nebula",
+        "constellation": "Sagittarius",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M21",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Sagittarius",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M22",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Sagittarius",
+        "discovery_date": "1665"
+      },
+      {
+        "name": "M23",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Sagittarius",
+        "discovery_date": "c. 130 AD"
+      },
+      {
+        "name": "M24",
+        "common_name": "Sagittarius Star Cloud",
+        "type": "Star Cloud",
+        "constellation": "Sagittarius",
+        "discovery_date": "c. 130 AD"
+      },
+      {
+        "name": "M25",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Sagittarius",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M26",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Scutum",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M27",
+        "common_name": "Dumbbell Nebula",
+        "type": "Planetary Nebula",
+        "constellation": "Vulpecula",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M28",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Sagittarius",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M29",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Cygnus",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M30",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Capricornus",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M31",
+        "common_name": "Andromeda Galaxy",
+        "type": "Spiral Galaxy",
+        "constellation": "Andromeda",
+        "discovery_date": "964 AD"
+      },
+      {
+        "name": "M32",
+        "common_name": "",
+        "type": "Dwarf Elliptical Galaxy",
+        "constellation": "Andromeda",
+        "discovery_date": "1749"
+      },
+      {
+        "name": "M33",
+        "common_name": "Triangulum Galaxy",
+        "type": "Spiral Galaxy",
+        "constellation": "Triangulum",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M34",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Perseus",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M35",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Gemini",
+        "discovery_date": "1745"
+      },
+      {
+        "name": "M36",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Auriga",
+        "discovery_date": "1749"
+      },
+      {
+        "name": "M37",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Auriga",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M38",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Auriga",
+        "discovery_date": "1749"
+      },
+      {
+        "name": "M39",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Cygnus",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M40",
+        "common_name": "Winnecke 4",
+        "type": "Double Star",
+        "constellation": "Ursa Major",
+        "discovery_date": "1764"
+      },
+      {
+        "name": "M41",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Canis Major",
+        "discovery_date": "1654"
+      },
+      {
+        "name": "M42",
+        "common_name": "Orion Nebula",
+        "type": "Emission Nebula",
+        "constellation": "Orion",
+        "discovery_date": "c. 130 AD"
+      },
+      {
+        "name": "M43",
+        "common_name": "De Mairan's Nebula",
+        "type": "Emission Nebula",
+        "constellation": "Orion",
+        "discovery_date": "1731"
+      },
+      {
+        "name": "M44",
+        "common_name": "Beehive Cluster",
+        "type": "Open Cluster",
+        "constellation": "Cancer",
+        "discovery_date": "c. 130 AD"
+      },
+      {
+        "name": "M45",
+        "common_name": "Pleiades",
+        "type": "Open Cluster",
+        "constellation": "Taurus",
+        "discovery_date": "c. 130 AD"
+      },
+      {
+        "name": "M46",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Puppis",
+        "discovery_date": "1771"
+      },
+      {
+        "name": "M47",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Puppis",
+        "discovery_date": "1654"
+      },
+      {
+        "name": "M48",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Hydra",
+        "discovery_date": "1771"
+      },
+      {
+        "name": "M49",
+        "common_name": "",
+        "type": "Elliptical Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1771"
+      },
+      {
+        "name": "M50",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Monoceros",
+        "discovery_date": "1772"
+      },
+      {
+        "name": "M51",
+        "common_name": "Whirlpool Galaxy",
+        "type": "Spiral Galaxy",
+        "constellation": "Canes Venatici",
+        "discovery_date": "1773"
+      },
+      {
+        "name": "M52",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Cassiopeia",
+        "discovery_date": "1774"
+      },
+      {
+        "name": "M53",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Coma Berenices",
+        "discovery_date": "1775"
+      },
+      {
+        "name": "M54",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Sagittarius",
+        "discovery_date": "1778"
+      },
+      {
+        "name": "M55",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Sagittarius",
+        "discovery_date": "1778"
+      },
+      {
+        "name": "M56",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Lyra",
+        "discovery_date": "1779"
+      },
+      {
+        "name": "M57",
+        "common_name": "Ring Nebula",
+        "type": "Planetary Nebula",
+        "constellation": "Lyra",
+        "discovery_date": "1779"
+      },
+      {
+        "name": "M58",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1779"
+      },
+      {
+        "name": "M59",
+        "common_name": "",
+        "type": "Elliptical Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1779"
+      },
+      {
+        "name": "M60",
+        "common_name": "",
+        "type": "Elliptical Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1779"
+      },
+      {
+        "name": "M61",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1779"
+      },
+      {
+        "name": "M62",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Ophiuchus",
+        "discovery_date": "1771"
+      },
+      {
+        "name": "M63",
+        "common_name": "Sunflower Galaxy",
+        "type": "Spiral Galaxy",
+        "constellation": "Canes Venatici",
+        "discovery_date": "1779"
+      },
+      {
+        "name": "M64",
+        "common_name": "Black Eye Galaxy",
+        "type": "Spiral Galaxy",
+        "constellation": "Coma Berenices",
+        "discovery_date": "1779"
+      },
+      {
+        "name": "M65",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Leo",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M66",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Leo",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M67",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Cancer",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M68",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Hydra",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M69",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Sagittarius",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M70",
+        "common_name":"",
+        "type": "Globular Cluster",
+        "constellation": "Sagitta",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M72",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Aquarius",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M73",
+        "common_name": "",
+        "type": "Asterism",
+        "constellation": "Aquarius",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M74",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Pisces",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M75",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Sagittarius",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M76",
+        "common_name": "Little Dumbbell Nebula",
+        "type": "Planetary Nebula",
+        "constellation": "Perseus",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M77",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Cetus",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M78",
+        "common_name": "",
+        "type": "Reflection Nebula",
+        "constellation": "Orion",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M79",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Lepus",
+        "discovery_date": "1780"
+      },
+      {
+        "name": "M80",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Scorpius",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M81",
+        "common_name": "Bode's Galaxy",
+        "type": "Spiral Galaxy",
+        "constellation": "Ursa Major",
+        "discovery_date": "1774"
+      },
+      {
+        "name": "M82",
+        "common_name": "Cigar Galaxy",
+        "type": "Starburst Galaxy",
+        "constellation": "Ursa Major",
+        "discovery_date": "1774"
+      },
+      {
+        "name": "M83",
+        "common_name": "Southern Pinwheel Galaxy",
+        "type": "Spiral Galaxy",
+        "constellation": "Hydra",
+        "discovery_date": "1752"
+      },
+      {
+        "name": "M84",
+        "common_name": "",
+        "type": "Lenticular Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M85",
+        "common_name": "",
+        "type": "Lenticular Galaxy",
+        "constellation": "Coma Berenices",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M86",
+        "common_name": "",
+        "type": "Lenticular Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M87",
+        "common_name": "Virgo A",
+        "type": "Elliptical Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M88",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Coma Berenices",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M89",
+        "common_name": "",
+        "type": "Elliptical Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M90",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M91",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Coma Berenices",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M92",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Hercules",
+        "discovery_date": "1777"
+      },
+      {
+        "name": "M93",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Puppis",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M94",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Canes Venatici",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M95",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Leo",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M96",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Leo",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M97",
+        "common_name": "Owl Nebula",
+        "type": "Planetary Nebula",
+        "constellation": "Ursa Major",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M98",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Coma Berenices",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M99",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M100",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Coma Berenices",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M101",
+        "common_name": "Pinwheel Galaxy",
+        "type": "Spiral Galaxy",
+        "constellation": "Ursa Major",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M102",
+        "common_name": "Spindle Galaxy",
+        "type": "Lenticular Galaxy",
+        "constellation": "Draco",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M103",
+        "common_name": "",
+        "type": "Open Cluster",
+        "constellation": "Cassiopeia",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M104",
+        "common_name": "Sombrero Galaxy",
+        "type": "Spiral Galaxy",
+        "constellation": "Virgo",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M105",
+        "common_name": "",
+        "type": "Elliptical Galaxy",
+        "constellation": "Leo",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M106",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Canes Venatici",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M107",
+        "common_name": "",
+        "type": "Globular Cluster",
+        "constellation": "Ophiuchus",
+        "discovery_date": "1782"
+      },
+      {
+        "name": "M108",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Ursa Major",
+        "discovery_date": "1782"
+      },
+      {
+        "name": "M109",
+        "common_name": "",
+        "type": "Spiral Galaxy",
+        "constellation": "Ursa Major",
+        "discovery_date": "1781"
+      },
+      {
+        "name": "M110",
+        "common_name": "",
+        "type": "Dwarf Elliptical Galaxy",
+        "constellation": "Andromeda",
+        "discovery_date": "1773"
+      }
+        ]
+    }
